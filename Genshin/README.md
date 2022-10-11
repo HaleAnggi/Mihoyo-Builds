@@ -7,21 +7,21 @@ Contains every version of genshin for download (will put on mega in the near fut
   
     This was mainly added to test summaries
 
-    Act Prologue - The Outlander Who Caught the Wind (Mondstadt)
+    Act Prologue [0.0.1] - The Outlander Who Caught the Wind (Mondstadt)
 
-    Act One - Farewell, Archaic Lord (Liyue)   
+    Act One [1.0] - Farewell, Archaic Lord (Liyue)   
 
-    Act Two - Omnipresence Over Mortals (Inazuma) 
+    Act Two [2.0] - Omnipresence Over Mortals (Inazuma) 
 
-    Act Three - Truth Amongst the Pages of Purana (Sumeru)   
+    Act Three [3.0] - Truth Amongst the Pages of Purana (Sumeru)   
 
-    Act Four - Masquerade of the Guilty (Fontaine)    
+    Act Four [4.0] - Masquerade of the Guilty (Fontaine)    
 
-    Act Five - Incandescent Ode of Resurrection (Natlan) 
+    Act Five [5.0] - Incandescent Ode of Resurrection (Natlan) 
 
-    Act Six - Everwinter Without Mercy (Snezhnaya)
+    Act Six [6.0] - Everwinter Without Mercy (Snezhnaya)
 
-    Act ? - The Dream Yet to Be Dreamed (Khaenri'ah)
+    Act ? [?.?] - The Dream Yet to Be Dreamed (Khaenri'ah)
 
 </details>
 
@@ -60,7 +60,8 @@ Contains every version of genshin for download (will put on mega in the near fut
 | Build                  	 | Date          	 |		    Version Title             |		    Version Download             |		    Size             |
 | ------------------------------ | --------------------- | ------------------------------ | ------------------------------ | ------------------------------ |
 | 2.8.50        	 |  ??-??-25	   	 |		3.0 Beta|		[Download](https://autopatchcn.yuanshen.com/client_app/download/beta_pc/20220708103922_J7gB70oC8LbfoVse/YuanShen_2.8.50_beta.zip)|		33.6GB|
-| 3.0.51.1 (Require Key!)        	 |  ??-??-??	   	 |		3.2 Beta|		[Download](https://osbetadownload.yuanshen.com/client_app/download/beta_pc/20220927134823_kEQbFJShHBdJLxNz/GenshinImpact_3.0.51.1_beta.zip)|		37.3GB|
+| 3.0.51.1 (Require Key!)        	 |  ??-??-??	   	 |		3.2 Beta|		[Download](https://osbetadownload.yuanshen.com/client_app/download/beta_pc/20220927134823_kEQbFJShHBdJLxNz/GenshinImpact_3.0.51.1_beta.zip)| [Alternate Link] | **[Torrent](https://cdn.discordapp.com/attachments/997566696137175144/1026770358478577704/GenshinImpact_3.0.51.1_beta.torrent)** | **[Baidu Online Desk](https://pan.baidu.com/s/1p3GmKm-y0exs18V5lYvd-g?pwd=c0ft)** | **[OneDrive](https://moefox-my.sharepoint.com/:f:/g/personal/admin_moefox_onmicrosoft_com/Ek-WJCoLx31NkB_xOGSFuegB5_mxJQpW-atwhYKkRWETfg?e=cYEUXD)** | **[MEGA](https://mega.nz/folder/XiwgBCTK#QbUlw7Bm12jjbcZ-UWbLbg)**		37.3GB|
+| 3.1.51 (Require Key!)        	 |  ??-??-??	   	 |		3.2 Beta|		[Download](https://osbetadownload.yuanshen.com/client_app/download/beta_pc/20220927134823_kEQbFJShHBdJLxNz/GenshinImpact_3.1.51_beta.zip)|		??.?GB|
 | 3.1.52 (Require Key!)        	 |  ??-??-??	   	 |		3.2 Beta|		[Download](https://osbetadownload.yuanshen.com/client_app/download/beta_pc/20220930115455_RqieAl1LEJPkePL5/GenshinImpact_3.1.52_beta.zip)|		??.?GB| 
 | 3.1.53 (Require Key!)        	 |  ??-??-??	   	 |		3.2 Beta|		[Download](https://osbetadownload.yuanshen.com/client_app/download/beta_pc/20221010110132_4w3UFor4kaeXQ0IL/GenshinImpact_3.1.53_beta.zip)|		??.?GB|  
 
