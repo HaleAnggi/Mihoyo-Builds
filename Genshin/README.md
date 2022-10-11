@@ -60,6 +60,7 @@ Contains every version of genshin for download (will put on mega in the near fut
 | Build                  	 | Date          	 |		    Version Title             |		    Version Download             |		    Size             |
 | ------------------------------ | --------------------- | ------------------------------ | ------------------------------ | ------------------------------ |
 | 2.8.50        	 |  ??-??-25	   	 |		3.0 Beta|		[Download](https://autopatchcn.yuanshen.com/client_app/download/beta_pc/20220708103922_J7gB70oC8LbfoVse/YuanShen_2.8.50_beta.zip)|		33.6GB|
+| 3.0.51.1 (Require Key!)        	 |  ??-??-??	   	 |		3.2 Beta|		[Download](https://osbetadownload.yuanshen.com/client_app/download/beta_pc/20220927134823_kEQbFJShHBdJLxNz/GenshinImpact_3.0.51.1_beta.zip)|		33.6GB|
 
 </details>
 
